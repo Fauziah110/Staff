@@ -48,7 +48,7 @@
             <p>You will be redirected to the login page shortly.</p>
         </div>
         <div class="btn-container">
-            <a href="AdminLogin.jsp">Go to Login</a>
+            <a href="index.jsp">Go to Login</a>
         </div>
     </div>
 </body>
